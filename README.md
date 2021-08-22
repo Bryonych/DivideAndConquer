@@ -1,1 +1,1 @@
-Assignment to solver skyline problem by divide and conquer
+Assignment to solve skyline problem by divide and conquer
